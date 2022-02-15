@@ -19,7 +19,7 @@ export default class Stm extends React.Component{
                 renderItem={({item})=> <Card urunler={item}/>}
                 numColumns={2}
                 ></FlatList>
-                <Text>Selam</Text>
+                
                 </View>
                
 
